@@ -30,8 +30,3 @@ Base 16. Digits used: 0 to 9, Letters used: A-F.</li>
 </ol>
 
 <p>C. Create a UML Class Diagram for the class hierarchy and provide sample program outputs.</p>
-
-
-
-
-
