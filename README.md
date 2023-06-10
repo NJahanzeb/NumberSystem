@@ -19,7 +19,7 @@ Base 10. Digits used: 0 to 9.</li>
 
 <li><strong>Hexadecimal Number System:</strong><br>
 Base 16. Digits used: 0 to 9, Letters used: A-F.</li>
-<ul>
+</ul>
 
 <p>A. Develop a class hierarchy in C++ with "Number System" as the base class and four derived classes representing each of the four mentioned number systems. Utilize this class hierarchy to create a "Number Conversion Calculator."</p>
 
