@@ -1,4 +1,4 @@
-<h1>Number System Converter</h1>
+<h1>OOP-Based Number System Converter & Calculator</h1>
 
 <p>A number system is a method of representing numbers. The most commonly used number system in our daily lives is the decimal number system, which has a base of 10 and uses digits from 0 to 9. In the decimal system, the positions to the left of the decimal point represent units, tens, hundreds, thousands, and so on.</p>
 
